@@ -1,46 +1,31 @@
-<h1 align="left">Hi, I'm Fateme Aliakbar</h1>
+ <h1>Hi, I'm Fateme Aliakbari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
 ###
 
-<p align="left">🌱 I am currently learning more about software engineering.<br>🎓 Computer Engineering graduate from Semnan University</p>
+<p align="left">
+  🌱 I am currently learning more about backend development.<br>
+  🎓 Computer Engineering graduate from Semnan University.
+</p>
 
 ###
 
-<h3 align="left">🖥️ Technologies and Skills</h3>
+<h2 align="left">Technologies and Skills</h2>
+  <ul>
+    <li><img src="https://skillicons.dev/icons?i=python,js,bootstrap,css,html" height="35" /></li>
+    <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="microsoftsqlserver logo"  /></li>
+    <li><img src="https://skillicons.dev/icons?i=git,github" height="35"/></li>
+  </ul>
 
 ###
 
+<h2 align="left">Connect with Me</h2>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-</div>
-
-###
-
-<p align="left">🌐<br>🛢<br>⚙️<br>🔧</p>
-
-###
-
-<h3 align="left"></h3>
-
-###
-
-<h3 align="left">🤝🏻  Connect with Me</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <a href="#">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="fateme.alk9@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
